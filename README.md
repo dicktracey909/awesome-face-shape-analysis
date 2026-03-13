@@ -203,11 +203,16 @@ Contributions welcome! If you know of a face analysis tool, research paper, or r
 
 ---
 
+## Further Reading
+
+- [The Golden Ratio in Faces: What 1.618 Actually Tells You (And What It Doesn't)](https://medium.com/@dicktracey909/the-golden-ratio-in-faces-what-1-618-actually-tells-you-and-what-it-doesnt-09953eb419e8) - The science behind facial proportion analysis and what the research actually says
+
 ## Connect
 
 - [The Face Report](https://thefacereport.com) — Free AI face shape detection and facial analysis
 - [Face Shape Detector](https://thefacereport.com/tools/face-shape) — Detect your face shape instantly
 - [Golden Ratio Calculator](https://thefacereport.com/tools/golden-ratio) — Measure your facial proportions
+- [All Links](https://linktr.ee/thefacereport) — The Face Report link hub
 
 ## License
 
