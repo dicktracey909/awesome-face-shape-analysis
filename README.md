@@ -33,6 +33,7 @@ Maintained by [The Face Report](https://thefacereport.com) — free AI-powered f
 Tools that classify your face shape (oval, round, square, heart, diamond, oblong) from a photo.
 
 - [The Face Report — Face Shape Detector](https://thefacereport.com/tools/face-shape) - Maps 478 facial landmarks using MediaPipe Face Mesh to classify face shape. Includes hairstyle recommendations. No login, browser-only processing.
+- [Face Shape Report](https://faceshapereport.com/face-shape) - Measures forehead, cheekbone, jaw and face length against each other from 478 landmarks. Written for women. Free, no sign-up, and nothing is uploaded. Also publishes [twelve hairstyle and glasses guides](https://faceshapereport.com/guides) organised by shape.
 - [PinkMirror](https://pinkmirror.com/) - AI face analyzer rating 51 features across 12 facial areas. Detects face shape from 9 types.
 - [YouCam Face Shape Detector](https://yce.perfectcorp.com/face-shape-detector) - PerfectCorp's free AI face shape detector with hairstyle recommendations.
 - [Detect-Face-Shape.com](https://www.detect-face-shape.com/) - Classifies into 6 face shapes: oval, round, square, oblong, heart, diamond.
@@ -75,6 +76,8 @@ Comprehensive tools that combine multiple measurements — shape, symmetry, rati
 - [The Face Report — Full AI Analysis](https://thefacereport.com/tools/full-analysis) - Complete analysis covering face shape, symmetry, proportions, and harmony with personalized recommendations for skincare, exercise, and styling. 478-landmark precision.
 - [The Face Report — Facial Ratios Calculator](https://thefacereport.com/tools/facial-ratios) - Measures 11 key facial ratios including FWHR (facial width-to-height ratio), midface ratio, and eye spacing. Compares against established aesthetic standards.
 - [The Face Report — Harmony Score](https://thefacereport.com/tools/attractiveness) - AI beauty and harmony score out of 100 based on symmetry, golden ratio proportions, and overall balance.
+- [How Pretty Am I](https://howprettyami.com/) - Facial harmony scored out of 100 from symmetry, golden ratio, facial thirds and facial fifths, with all six component scores shown rather than collapsed into one figure. Deliberately gives no mark out of ten and has no bottom band. [Full method published](https://howprettyami.com/how-it-works), including the reference distribution behind every percentile claim. Browser-only, nothing uploaded.
+- [The Attractiveness Test](https://theattractivenesstest.com/) - Scores facial attractiveness out of 10 from 478 landmarks with a per-metric breakdown and its limitations stated on the same screen. Includes [how attractive am I](https://theattractivenesstest.com/how-attractive-am-i), a [1-10 scale explainer](https://theattractivenesstest.com/attractiveness-scale), a [facial harmony test](https://theattractivenesstest.com/facial-harmony-test) and a [PSL scale page](https://theattractivenesstest.com/psl-scale). No upload, no account, nothing for sale.
 - [QOVES Studio](https://www.qoves.com/) - Paid facial aesthetics consultancy with AI-driven assessment. Used by cosmetic surgery clinics.
 - [PerfectCorp Business Face Analyzer](https://www.perfectcorp.com/business/showcase/face-analyzer) - Enterprise-grade face analysis for shape, ratio, colors, and symmetry.
 
@@ -85,6 +88,7 @@ Comprehensive tools that combine multiple measurements — shape, symmetry, rati
 Tools that measure one facial feature in depth rather than scoring the whole face.
 
 - [Eye Shape Detector](https://thefacereport.com/tools/eye-shape) - Estimates eye opening shape and corner orientation, then draws the measured outline back on your photo with makeup and eyeliner ideas.
+- [Face Shape Report — Eye Shape](https://faceshapereport.com/eye-shape) - Returns two measurements instead of one label: how the eye opening is proportioned, and how far the outer corners lift.
 - [Canthal Tilt Calculator](https://thefacereport.com/tools/canthal-tilt) - Left, right, and average canthal tilt estimated from a photo, with a visible eye-corner overlay. Runs in the browser. See also the [negative canthal tilt guide](https://thefacereport.com/guides/negative-canthal-tilt).
 - [Jawline Score](https://thefacereport.com/tools/jawline-score) - Jaw-angle estimate, jaw symmetry, visible width, and lower-face proportion computed from 478 landmarks on a front photo.
 - [PSL Score Calculator](https://thefacereport.com/tools/psl-score) - A PSL-style 0–100 range derived from symmetry and proportion measurements, with the scoring model explained rather than hidden.
@@ -102,6 +106,7 @@ Matching hair, makeup, and clothing colors to your natural undertone and contras
 
 - [The Face Report — Color Season Analysis](https://thefacereport.com/tools/color-analysis) - Reads undertone, value, and contrast from a selfie and classifies you into one of the 12 seasons. Each season has a full palette guide: [True Winter](https://thefacereport.com/guides/true-winter-color-palette), [Deep Autumn](https://thefacereport.com/guides/deep-autumn-color-palette), [Soft Summer](https://thefacereport.com/guides/soft-summer-color-palette), [Bright Spring](https://thefacereport.com/guides/bright-spring-color-palette), and the rest.
 - [Colorwise.me](https://colorwise.me/) - Free online color analysis quiz and season finder.
+- [Color Analysis Lab](https://coloranalysislab.com/) - 12-season analysis from an 8-question quiz (about two minutes) or [from a photo](https://coloranalysislab.com/photo) read for skin, hair and eye colour. Results are deterministic, so the same answers always return the same season. Also runs a [skin undertone test](https://coloranalysislab.com/undertone-test), a [gold or silver test](https://coloranalysislab.com/gold-or-silver-test), a [hair colour quiz](https://coloranalysislab.com/hair-color-quiz) and [what colours look good on me](https://coloranalysislab.com/what-colors-look-good-on-me). Free tools run entirely in the browser; the full palette report is a paid add-on.
 
 ---
 
@@ -135,6 +140,7 @@ Face analysis tools for iOS and Android.
 Choosing the right hairstyle for your face shape is one of the most practical applications of face shape analysis.
 
 - [The Face Report — Face Shape & Hairstyle Guide](https://thefacereport.com/guides/face-shape-hairstyle) - Covers 7 face shapes with specific recommendations for men and women, including facial hair considerations. Per-shape breakdowns: [oval](https://thefacereport.com/guides/oval-face-hairstyles), [round](https://thefacereport.com/guides/round-face-hairstyles), [square](https://thefacereport.com/guides/square-face-hairstyles), [heart](https://thefacereport.com/guides/heart-face-hairstyles), [diamond](https://thefacereport.com/guides/diamond-face-hairstyles), [oblong](https://thefacereport.com/guides/oblong-face-hairstyles).
+- [Face Shape Report — Hairstyle Finder](https://faceshapereport.com/hairstyle-finder) - Eighteen cuts sorted by the face shape they flatter, each with the reason it works rather than just a picture.
 - [The Art of Manliness — Best Haircut for Face Shape](https://www.artofmanliness.com/style/hair/the-best-haircut-for-your-face-shape/) - Comprehensive men's guide to matching haircuts to face shapes.
 - [FashionBeans — How to Choose Right Haircut](https://www.fashionbeans.com/article/how-to-choose-right-haircut-for-face-shape/) - Detailed guide with visual examples for each face shape.
 - [Alex Costa — Hairstyle by Face Shape](https://alexcostastyle.com/hairstyle-by-face-shape/) - Interactive tool from popular men's grooming YouTuber.
