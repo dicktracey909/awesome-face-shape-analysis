@@ -73,6 +73,7 @@ Measure how facial proportions compare to the golden ratio (1.618:1).
 
 Comprehensive tools that combine multiple measurements — shape, symmetry, ratios, and overall harmony.
 
+- [FaceRater](https://facerater.io/) - Shows adults a photo-geometry reference score with facial measurements and an overlay; results vary with photo conditions.
 - [The Face Report — Full AI Analysis](https://thefacereport.com/tools/full-analysis) - Complete analysis covering face shape, symmetry, proportions, and harmony with personalized recommendations for skincare, exercise, and styling. 478-landmark precision.
 - [The Face Report — Facial Ratios Calculator](https://thefacereport.com/tools/facial-ratios) - Measures 11 key facial ratios including FWHR (facial width-to-height ratio), midface ratio, and eye spacing. Compares against established aesthetic standards.
 - [The Face Report — Harmony Score](https://thefacereport.com/tools/attractiveness) - AI beauty and harmony score out of 100 based on symmetry, golden ratio proportions, and overall balance.
